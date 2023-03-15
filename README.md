@@ -9,4 +9,4 @@ Analytics Methods:
 
 Details see attached PDF presentation.
 
-# This project helped win $100k job offer in 2020.
+(This project helped win $100k job offer in 2020.)
